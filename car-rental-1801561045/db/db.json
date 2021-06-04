@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "id": "4923ab57-a664-41b6-8171-aa64d32bd31f",
+      "isAdmin": true,
+      "name": "Prince Jonathan",
+      "email": "admin@admin.com",
+      "phone": "+1 (924) 465-2314",
+      "password": 123456
+    },
+    {
+      "id": "4923ab57-a664-41b6-8171-aa64d32bd56e",
+      "isAdmin": false,
+      "name": "Knight Bridges Prince",
+      "email": "knightbridges@artworlds.com",
+      "phone": "+1 (924) 465-2314",
+      "password": 123456
+    },
+    {
+      "id": "96c1ffd2-6181-4bfb-8fdf-176dfd9cfa5e",
+      "isAdmin": true,
+      "name": "Lilia Jenkins",
+      "email": "liliajenkins@artworlds.com",
+      "phone": "+1 (896) 417-2661",
+      "password": 123456
+    },
+    {
+      "id": "ce7f5cbb-0ed6-42dd-94a0-ae1c0e96abc3",
+      "isAdmin": true,
+      "name": "Elena Pacheco",
+      "email": "elenapacheco@artworlds.com",
+      "phone": "+1 (979) 520-3243",
+      "password": 123456
+    },
+    {
+      "id": "ca8145c8-80c2-47d8-82f2-95ff4a76c555",
+      "isAdmin": false,
+      "name": "Nita Strong",
+      "email": "nitastrong@artworlds.com",
+      "phone": "+1 (883) 481-2551",
+      "password": 12345678
+    },
+    {
+      "id": "57e49dec-074a-4d93-a613-af9eb3005d07",
+      "isAdmin": true,
+      "name": "Stanton Stuart",
+      "email": "stantonstuart@artworlds.com",
+      "phone": "+1 (940) 430-2863",
+      "password": 123456
+    },
+    {
+      "id": "255c96fd-7677-4fff-8b16-c441eb470e2c",
+      "isAdmin": false,
+      "name": "Vazquez Spears",
+      "email": "vazquezspears@artworlds.com",
+      "phone": "+1 (855) 453-3301",
+      "password": 123456789
+    },
+    {
+      "id": "3d6aeaba-6af6-4cc8-89be-2c970057bef8",
+      "isAdmin": false,
+      "name": "Castaneda Sullivan",
+      "email": "castanedasullivan@artworlds.com",
+      "phone": "+1 (826) 501-3751",
+      "password": 123456
+    },
+    {
+      "name": "Miami Florida",
+      "age": "17",
+      "email": "miami@florida.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": "9hapDrw"
+    },
+    {
+      "name": "Las Vegas",
+      "phone": "0893333333",
+      "email": "lasvegas@nevada.com",
+      "password": "123456",
+      "isAdmin": false,
+      "id": "60BmTtH"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "51f08116-1047-4b14-a047-c0799d253c96",
+      "type": "economy",
+      "brandModel": "Toyota-Corolla",
+      "constructionYear": "2019",
+      "fuelType": "hybrid",
+      "numberOfSeats": "5",
+      "picture": "https://www.avtotachki.com/wp-content/uploads/2020/11/toyota-corolla-sedan-2019-1024x640.jpg",
+      "pricePerDay": "20 "
+    },
+    {
+      "id": "f3016f0c-fb0f-45e3-ba95-05b105d04b9a",
+      "type": "estate",
+      "brandModel": "VW-Passat-Rline",
+      "constructionYear": "2020",
+      "fuelType": "diesel",
+      "numberOfSeats": "5",
+      "picture": "https://uploads.volkswagen-newsroom.com/system/production/media/27614/images/373fffa49d263ccb5bb45bd438917f31f6508a3f/DB2019AU00283_x750.jpg?1580982772",
+      "pricePerDay": "50"
+    },
+    {
+      "id": "f9eada8e-fc79-4703-bf30-ea1b5c787ed1",
+      "type": "luxury",
+      "brandModel": "Rolls Royce-Phantom",
+      "constructionYear": "2020",
+      "fuelType": "petrol",
+      "numberOfSeats": "4",
+      "picture": "https://www.gqmiddleeast.com/public/images/2021/03/01/Rolls_Royce_Tempus1.jpg",
+      "pricePerDay": "500"
+    },
+    {
+      "id": "79129304-2e0c-48e8-a4f7-67a9be74d67d",
+      "type": "SUV",
+      "brandModel": "Tesla-Model X",
+      "constructionYear": "2020",
+      "fuelType": "electric",
+      "numberOfSeats": "7",
+      "picture": "https://cdn.pocket-lint.com/r/s/970x/assets/images/144304-cars-review-tesla-model-x-review-lead-image1-vdycmknzck-jpg.webp",
+      "pricePerDay": "100"
+    },
+    {
+      "id": "d94cdf25-21b2-42b2-a2f3-b12f76d12e01",
+      "type": "cargo",
+      "brandModel": "VW-Caddy",
+      "constructionYear": "2017",
+      "fuelType": "petrol",
+      "numberOfSeats": "2",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b1/VW_Caddy_2.0_TDI_BlueMotion_Technology_Highline_%282K%2C_2._Facelift%29_%E2%80%93_Frontansicht%2C_21._April_2017%2C_D%C3%BCsseldorf.jpg",
+      "pricePerDay": "20"
+    },
+    {
+      "brandModel": "Spaceship-r1",
+      "type": "cargo",
+      "constructionYear": "2021",
+      "fuelType": "electric",
+      "numberOfSeats": "1",
+      "pricePerDay": "10000",
+      "id": "9KV3A-n"
+    }
+  ]
+}

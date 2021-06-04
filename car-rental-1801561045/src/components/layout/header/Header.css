@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(83, 186, 255);
+    width: 100%;
+}
+
+.logout-btn {
+    cursor:pointer;
+    margin-left: 10;
+}
+
+
